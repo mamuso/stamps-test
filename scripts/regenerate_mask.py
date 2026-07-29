@@ -5,8 +5,8 @@ from pathlib import Path
 from PIL import Image
 
 ROOT = Path(__file__).resolve().parents[1]
-SRC = ROOT / "assets" / "stamp.png"
-DST = ROOT / "assets" / "stamp-mask.png"
+SRC = ROOT / "public" / "assets" / "stamp.png"
+DST = ROOT / "public" / "assets" / "stamp-mask.png"
 
 
 def main() -> None:
