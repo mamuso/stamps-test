@@ -8,7 +8,13 @@
 */
 
 
-{ foo: "bar", baz: "qux" }
+{ 
+  foo: "bar", 
+  baz: "qux"
+}
 
 
-{ foo: "bar" }
+{ 
+  foo: "bar", 
+  baz: "qux"
+}
