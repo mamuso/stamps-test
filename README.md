@@ -24,9 +24,12 @@
 /** Merged pull requests per UTC day, oldest day first; the last day is today and still filling. */
 
 
-foo: bar, baz
+foo:
+  bar,
+  baz,
+  boom,
+  bam,
 other: 1
-old: true
 
 
 foo: bar, baz
